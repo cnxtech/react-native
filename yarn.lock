@@ -5138,6 +5138,12 @@ ws@^4.0.0:
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
 
+ws@^5.2.5:
+  version "5.2.5"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.5.tgz#41d693f6502b7a020349cfa220a6799a7f13335c"
+  dependencies:
+    async-limiter "~1.0.0"
+
 xcode@^0.9.1:
   version "0.9.3"
   resolved "https://registry.yarnpkg.com/xcode/-/xcode-0.9.3.tgz#910a89c16aee6cc0b42ca805a6d0b4cf87211cf3"
